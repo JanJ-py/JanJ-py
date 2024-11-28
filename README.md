@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on development of games and applications via Python
 - 📫 How to reach me: email 1.janousek@seznam.cz
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love cats :-D
 
 <!---
 JanJ-py/JanJ-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
